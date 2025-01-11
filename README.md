@@ -1,4 +1,3 @@
-Finding & Plotting Optimal Routes in NYC
 Overview
 
 This notebook is designed to compute and visualize the most efficient travel routes in New York City. The application achieves this by mapping geo nodes from Open Source Routing Machine API to geographic database 
